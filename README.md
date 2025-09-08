@@ -7,4 +7,5 @@ Travail réalisé dans le cadre de CDD de cheffe de méthodologie Presse pour l'
 Date de début : 17/04/2025
 Date de fin: 16/04/2026
 
-Contrat: [Climat Médias](assets/images/Logo_climatmedias.png)
+Contrat: [Climat Médias][https://climatmedias.org/]
+!(assets/images/Logo_climatmedias.png)
